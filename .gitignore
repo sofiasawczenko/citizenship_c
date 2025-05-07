@@ -1,0 +1,24 @@
+# Ignorar arquivos de sistema
+*.lnk
+desktop.ini
+~$*
+
+# Ignorar pastas de trabalho
+/../../Area de trabalho - agosto/
+/../../Docker Desktop.lnk
+/../../FIAP/
+/../../Google Cloud SDK Shell.lnk
+/../../MongoDBCompass.lnk
+/../../Notion.lnk
+/../../Postman.lnk
+/../../Rascunhos-programacao.docx
+/../../agnello/
+/../../darkPortfolio/
+/../../exercicios_python/
+/../../sintaxeJava/
+/../../vinheriaAgnello/
+
+# Ignorar arquivos do VSCode, Docker, etc.
+.vscode/
+.idea/
+*.log
